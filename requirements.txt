@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 python-dotenv
-openai
+google-cloud-aiplatform
 requests
 streamlit
